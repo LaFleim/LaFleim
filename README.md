@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaFleim
 - 👀 I’m interested in bots, java, python, and more things that i dunno.
 - 🌱 I’m currently learning Python Language and autocode Bots for discord
-- 💞️ I’m looking to collaborate on big companies as developer
+- 💻 I’m looking to collaborate on big companies as developer
 - 📫 How to reach me on instagram: ferlaflame 
 
 <!---
